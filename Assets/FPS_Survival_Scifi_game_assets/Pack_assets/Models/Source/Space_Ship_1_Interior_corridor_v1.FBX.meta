@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 97869101562ceec45a64fe575acb7924
+timeCreated: 1519929850
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Object133
+    100002: Object160
+    100004: Object161
+    100006: Object162
+    100008: Object163
+    100010: Object164
+    100012: Object165
+    100014: Object166
+    100016: Object167
+    100018: Object168
+    100020: Object169
+    100022: Object170
+    100024: Object171
+    100026: Object269
+    100028: //RootNode
+    100030: Object270
+    100032: Object271
+    100034: Object272
+    100036: Object273
+    100038: Corridor_ceiling_grill_v1
+    100040: Corridor_ceiling_grill_v2
+    100042: Corridor_ceiling_light_v1
+    100044: Corridor_ceiling_wires_v1
+    100046: Corridor_ceiling_wires_v2
+    100048: Corridor_ceiling_wires_v3
+    100050: Corridor_door_display_v1
+    100052: Corridor_door_segment_v1
+    100054: Corridor_floor_v1
+    100056: Corridor_split_segment_v1
+    100058: Corridor_wall_glass_v1
+    100060: Corridor_wall_grill_v1
+    100062: Corridor_wall_v1
+    100064: Corridor_wall_v2
+    100066: Corridor_wall_v3
+    400000: Object133
+    400002: Object160
+    400004: Object161
+    400006: Object162
+    400008: Object163
+    400010: Object164
+    400012: Object165
+    400014: Object166
+    400016: Object167
+    400018: Object168
+    400020: Object169
+    400022: Object170
+    400024: Object171
+    400026: Object269
+    400028: //RootNode
+    400030: Object270
+    400032: Object271
+    400034: Object272
+    400036: Object273
+    400038: Corridor_ceiling_grill_v1
+    400040: Corridor_ceiling_grill_v2
+    400042: Corridor_ceiling_light_v1
+    400044: Corridor_ceiling_wires_v1
+    400046: Corridor_ceiling_wires_v2
+    400048: Corridor_ceiling_wires_v3
+    400050: Corridor_door_display_v1
+    400052: Corridor_door_segment_v1
+    400054: Corridor_floor_v1
+    400056: Corridor_split_segment_v1
+    400058: Corridor_wall_glass_v1
+    400060: Corridor_wall_grill_v1
+    400062: Corridor_wall_v1
+    400064: Corridor_wall_v2
+    400066: Corridor_wall_v3
+    2300000: Object133
+    2300002: Object160
+    2300004: Object161
+    2300006: Object162
+    2300008: Object163
+    2300010: Object164
+    2300012: Object165
+    2300014: Object166
+    2300016: Object167
+    2300018: Object168
+    2300020: Object169
+    2300022: Object170
+    2300024: Object171
+    2300026: Object269
+    2300028: Object270
+    2300030: Object271
+    2300032: Object272
+    2300034: Object273
+    2300036: Corridor_ceiling_grill_v1
+    2300038: Corridor_ceiling_grill_v2
+    2300040: Corridor_ceiling_light_v1
+    2300042: Corridor_ceiling_wires_v1
+    2300044: Corridor_ceiling_wires_v2
+    2300046: Corridor_ceiling_wires_v3
+    2300048: Corridor_door_display_v1
+    2300050: Corridor_door_segment_v1
+    2300052: Corridor_floor_v1
+    2300054: Corridor_split_segment_v1
+    2300056: Corridor_wall_glass_v1
+    2300058: Corridor_wall_grill_v1
+    2300060: Corridor_wall_v1
+    2300062: Corridor_wall_v2
+    2300064: Corridor_wall_v3
+    3300000: Object133
+    3300002: Object160
+    3300004: Object161
+    3300006: Object162
+    3300008: Object163
+    3300010: Object164
+    3300012: Object165
+    3300014: Object166
+    3300016: Object167
+    3300018: Object168
+    3300020: Object169
+    3300022: Object170
+    3300024: Object171
+    3300026: Object269
+    3300028: Object270
+    3300030: Object271
+    3300032: Object272
+    3300034: Object273
+    3300036: Corridor_ceiling_grill_v1
+    3300038: Corridor_ceiling_grill_v2
+    3300040: Corridor_ceiling_light_v1
+    3300042: Corridor_ceiling_wires_v1
+    3300044: Corridor_ceiling_wires_v2
+    3300046: Corridor_ceiling_wires_v3
+    3300048: Corridor_door_display_v1
+    3300050: Corridor_door_segment_v1
+    3300052: Corridor_floor_v1
+    3300054: Corridor_split_segment_v1
+    3300056: Corridor_wall_glass_v1
+    3300058: Corridor_wall_grill_v1
+    3300060: Corridor_wall_v1
+    3300062: Corridor_wall_v2
+    3300064: Corridor_wall_v3
+    4300000: Object133
+    4300002: Object160
+    4300004: Object161
+    4300006: Object162
+    4300008: Object163
+    4300010: Object164
+    4300012: Object165
+    4300014: Object166
+    4300016: Object167
+    4300018: Object168
+    4300020: Object169
+    4300022: Object170
+    4300024: Object171
+    4300026: Object269
+    4300028: Object270
+    4300030: Object271
+    4300032: Object272
+    4300034: Object273
+    4300036: Corridor_wall_v3
+    4300038: Corridor_wall_glass_v1
+    4300040: Corridor_wall_v2
+    4300042: Corridor_wall_v1
+    4300044: Corridor_ceiling_wires_v2
+    4300046: Corridor_ceiling_wires_v1
+    4300048: Corridor_ceiling_wires_v3
+    4300050: Corridor_floor_v1
+    4300052: Corridor_split_segment_v1
+    4300054: Corridor_ceiling_light_v1
+    4300056: Corridor_door_segment_v1
+    4300058: Corridor_wall_grill_v1
+    4300060: Corridor_ceiling_grill_v1
+    4300062: Corridor_ceiling_grill_v2
+    4300064: Corridor_door_display_v1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
